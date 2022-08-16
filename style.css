@@ -2,3 +2,10 @@
     color: crimson;
     font-size: 20px;
 }
+.sub>p{
+    width: 400px;
+    border: 1px solid red;
+    border-radius: 5px;
+    color: lime;
+    background-color: blueviolet;
+}
