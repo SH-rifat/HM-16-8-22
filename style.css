@@ -9,3 +9,11 @@
     color: lime;
     background-color: blueviolet;
 }
+.main+p{
+    width: 300px;
+    border: 1px solid green;
+    border-radius: 7px;
+    background-color: black;
+    color: yellow;
+    font-size: 2rem;
+}
