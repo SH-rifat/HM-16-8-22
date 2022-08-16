@@ -21,3 +21,21 @@
     color: pink;
     font-size: 2rem;
 }
+a{
+    color: black;
+    background-color: white;
+    border: 3px solid red;
+    border-radius: 7px;
+    font-size: 17px;
+    text-decoration: none;
+    padding: 10px;
+}
+a:hover{
+    color: white;
+    background-color: red;
+    border: 3px solid white;
+    border-radius: 7px;
+    font-size: 17px;
+    text-decoration: none;
+    padding: 10px;
+}
