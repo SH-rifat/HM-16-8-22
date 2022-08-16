@@ -46,3 +46,8 @@ a:hover{
 .main-3::first-line{
     color: skyblue;
 }
+.main-3::first-letter{
+    font-size: 30px;
+    font-weight: bolder;
+    font-style: italic;
+}
