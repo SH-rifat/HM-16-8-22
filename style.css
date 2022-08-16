@@ -51,3 +51,7 @@ a:hover{
     font-weight: bolder;
     font-style: italic;
 }
+.main-3::selection{
+    color: yellow;
+    background-color: black;
+}
